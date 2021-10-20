@@ -1,1 +1,1 @@
-# 3.resz
+# discord-bot
